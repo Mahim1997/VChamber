@@ -5,5 +5,5 @@ Idea for a Large Scale Virtual Health-Care Platform.
 ![Work flow diagram](telemedicine_workflow.png)
 
 
-### ERD Diagram
+### Entity-Relationship Diagram
 ![ERD Diagram](ER-Diagram-Idea-Contest.png)
