@@ -1,4 +1,4 @@
-# VChamber
+# V-Chamber
 Idea for a Large Scale Virtual Health-Care Platform.
 
 ### Work Flow Diagram
